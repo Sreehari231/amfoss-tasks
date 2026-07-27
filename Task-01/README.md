@@ -10,7 +10,9 @@ in section C,devil_fruit_6.
 I first was looking at the canonical branch for the file which had the vault.Finally,I opened the whiskey peak investigation branch to access the file and I downloaded it and ran it 
 using the same commands as the previous one.Then,I exported the variable(Found out the syntax from google) using the Terminal from where i saved the file.
 I then,exported the fruit with export AWAKENING_SIGNATURE="ONE PEICE{GITO_GITO_NO_AWAKENING) and got the two files marine_intercept.log and bounty_hunter_feed.log.I also used 
-diff marine_intercept.log bounty_hunter_feed.log and found out the transmission code.
+diff marine_intercept.log bounty_hunter_feed.log and found out the transmission code.I later understood that it could be done by cloning the branch repository whiskey peak by using
+switch branch and then going into the folder and using ls -a and then using mv .baroque_works_cache baroque_works_cache and the copy the sh file to the eat file in which I awakened 
+the fruit and export the variable for Gito Gito no mi and do it.
 
 # Level 3
 I got the correct folder from the little_garden branch.
