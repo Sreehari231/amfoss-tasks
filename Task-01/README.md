@@ -7,10 +7,10 @@ being at a diffeerent folder made it so that I couldn't access it which made me 
 in section C,devil_fruit_6.
 
 # Level 2
-I first was looking at the canonical branch for the file which had the vault.Finally,I opened the whiskey peak investigation branch to acccess the file and I downloaded it and ran it 
+I first was looking at the canonical branch for the file which had the vault.Finally,I opened the whiskey peak investigation branch to access the file and I downloaded it and ran it 
 using the same commands as the previous one.Then,I exported the variable(Found out the syntax from google) using the Terminal from where i saved the file.
 I then,exported the fruit with export AWAKENING_SIGNATURE="ONE PEICE{GITO_GITO_NO_AWAKENING) and got the two files marine_intercept.log and bounty_hunter_feed.log.I also used 
-diff marine_intercept.log bounty_hunter_feed.log.
+diff marine_intercept.log bounty_hunter_feed.log and found out the transmission code.
 
 # Level 3
 I got the correct folder from the little_garden branch.
@@ -21,7 +21,7 @@ I downloaded the raw zip file-"puffing_tom_blueprints" and extracted it and got 
 and the secret link,which contained poneglyph 2.
 
 # Level 5
-I went to the alternate timeline branch,took the Enies Lobby file and took the Python file in it.I then combined the POneglyph I and Poneglyph II characters
+I went to the alternate timeline branch,took the Enies Lobby file and took the Python file in it.I then combined the Poneglyph I and Poneglyph II characters
 and wrote it as the password to access the github repository for Laugh Tale.
 
 # Level 6
